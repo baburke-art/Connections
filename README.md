@@ -1,6 +1,8 @@
 # Connections
 Welcome to the Connection Type Repository! This project aims to foster a collaborative approach to documenting and sharing standardized connection types across any and all products. We believe that standardized connections are fundamental to creative possibilities with products, reducing waste, challenging "throw-away" culture, planned obsolescence, and greater personalisation.
 
+This project intends to be used as a reference to allow anyone to create commercial products, parts of products, or separate connectors (e.g threaded inserts). These connections are generalised for filtering search results.
+
 Legal Disclaimer:
 
 Users are solely responsible for ensuring their use of connection types do not infringe upon any patents, trademarks, or intellectual property rights and its application.
